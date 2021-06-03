@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color:lightpink;
+}
+img{
+width:200px;
+height:200px;
+}
+h1 {
+  color: blue;
+}
+h2{
+color:blue;
+font-family:'fantasy', cursive;
+}
+p {
+  color: blue;
+font-size: 20;
+}
+.menu{
+
+list-style: none;
+font-family: cursive;
+float: right;
+top:10px;
+right:30px;
+cursor:pointer;
+color:black;
+
+}
+#myname{
+font-family: 'fantasy', cursive;
+}
+.link{
+color: crimson;
+display: inline;
+padding-top: 5px;
+padding-left: 9px;
+padding-right: 9px;
+padding-bottom: 5px;
+}
+.link:hover{
+background-color: beige;
+}
